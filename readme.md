@@ -29,8 +29,14 @@ Installation
 
 1. Clone the repository:
 git clone https://github.com/yourusername/auth-api.git
+
+
 cd auth-api
+
+
 pip install -r requirements.txt
+
+
 
 Running server
 uvicorn main:app --reload
